@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32291174833",
+    "project_id": "bal-chitrakala",
+    "storage_bucket": "bal-chitrakala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32291174833:android:dd4ef7b949bb2ec263e590",
+        "android_client_info": {
+          "package_name": "com.example.chitrakala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32291174833-r9uuhk2bff9qvieco441u9djabqdgt16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAffZN12Yq6XxEKJFYgcCD9rBP7iiWClY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32291174833-r9uuhk2bff9qvieco441u9djabqdgt16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
